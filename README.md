@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning ...**HTML | CSS | JS |Reactjs | Node.js | Mongo DB | Mongoose | Data Strucutres and Algorithms**
+- 🌱 I’m a front end dev working mainly with react ,have started dipping my feet in node js to enter the full stack multiverse 
 <!--- 👯 I’m looking to collaborate on ...-->
 
 - 💬 Ask me about ...feel free to ask me anything, though i am  an introvert i can talk for long streches if  my interest peaks .Web development/outdoor sports  are  usually the topics which interests me other than general rants about world view :D
