@@ -8,7 +8,7 @@ Here are some ideas to get you started:-->
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning ...**HTML | CSS | JS |Reactjs | Node.js | Mongo DB | Mongoose | Data Strucutres and Algorithms**
 <!--- 👯 I’m looking to collaborate on ...-->
-- 🤔 I’m looking for help with ... **Well I wont mind a mentor and  a tech Job**
+
 - 💬 Ask me about ...feel free to ask me anything, though i am  an introvert i can talk for long streches if  my interest peaks .Web development/outdoor sports  are  usually the topics which interests me other than general rants about world view :D
 - 📫 How to reach me: ...**webdevelpr2021@gmail.com**
 - 😄 Pronouns: ...He/Him
